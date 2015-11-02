@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"removeComments": true,
+		"target": "ES5"
+	},
+	"files": [
+		"typings/moment/moment-node.d.ts",
+		"typings/moment/moment.d.ts",
+		"typings/jquery/jquery.d.ts",
+		"typings/toastr/toastr.d.ts",
+		"typings/lodash/lodash.d.ts",
+		"typings/angularjs/angular.d.ts",
+		"typings/angularjs/angular-resource.d.ts",
+		"typings/angular-ui-router/angular-ui-router.d.ts",
+		
+		"src/dragzone.directive.ts",	
+		"src/draggable.directive.ts",	
+		"src/droppable.directive.ts"	
+	]
+}
